@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.bio_diversity">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BioDiversity"
+        tools:targetApi="31">
+        <activity
+            android:name=".uttarkashi_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".uttarkashi_flora"
+            android:exported="false" />
+        <activity
+            android:name=".udhar_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".udham_flora"
+            android:exported="false" />
+        <activity
+            android:name=".tehri_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".tehri_flora"
+            android:exported="false" />
+        <activity
+            android:name=".pithoragarh_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".pithoragarh_flora"
+            android:exported="false" />
+        <activity
+            android:name=".pauri_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".pauri_flor"
+            android:exported="false" />
+        <activity
+            android:name=".nanital_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".nanital_flora"
+            android:exported="false" />
+        <activity
+            android:name=".haridwar_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".haridwar_flora"
+            android:exported="false" />
+        <activity
+            android:name=".dehradun_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".dehradun_flora"
+            android:exported="false" />
+        <activity
+            android:name=".champawat_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".champawat_flora"
+            android:exported="false" />
+        <activity
+            android:name=".bageshwar_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".bageshwar_flora"
+            android:exported="false" />
+        <activity
+            android:name=".dis13"
+            android:exported="false" />
+        <activity
+            android:name=".dis12"
+            android:exported="false" />
+        <activity
+            android:name=".dis10"
+            android:exported="false" />
+        <activity
+            android:name=".dis9"
+            android:exported="false" />
+        <activity
+            android:name=".dis8"
+            android:exported="false" />
+        <activity
+            android:name=".dis7"
+            android:exported="false" />
+        <activity
+            android:name=".dis6"
+            android:exported="false" />
+        <activity
+            android:name=".dis4"
+            android:exported="false" />
+        <activity
+            android:name=".dis2"
+            android:exported="false" />
+        <activity
+            android:name=".rudra_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".rudra_flora"
+            android:exported="false" />
+        <activity
+            android:name=".chamoli_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".chamoli_flora"
+            android:exported="false" />
+        <activity
+            android:name=".almora_fauna"
+            android:exported="false" />
+        <activity
+            android:name=".almora_flora"
+            android:exported="false" />
+        <activity
+            android:name=".dis11"
+            android:exported="false" />
+        <activity
+            android:name=".dis5"
+            android:exported="false" />
+        <activity
+            android:name=".dis3"
+            android:exported="false" />
+        <activity
+            android:name=".dis1"
+            android:exported="false" />
+        <activity
+            android:name=".diffrentDistricts"
+            android:exported="false" />
+        <activity
+            android:name=".map"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

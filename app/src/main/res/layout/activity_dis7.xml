@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis7">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/nainital"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nainital"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Enveloped in a thick foil of nature, accentuated by the scent of the flowering blossoms blending miraculously in the crisp fresh air, Nainital is truly the treasure trove of Kumaon. It is among the most visited hill stations of North India since British period.
+
+Perched at an elevation of 2,084 metres above sea level, the glittering city of Nainital is hailed for being a parent to the ravishing Naini Lake from which it has earned the epithet of being the lake city. The Nainital town lures the domestic and international travelers equally. It shines as a glittering jewel in the Himalayan Mountains and is surrounded with lakes and nature's bounty."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Nainital District hilly region is covered with Sal, Pine, Oak, Buruns, Kaphal and other trees growing unto 6000 ft. along with Deodar, Surai etc. at higher altitudes. There are small tracts of cultivated lands and fruit orchards like Apricot, Oranges, Peach, Pears, Big lemons, Kafal, Strawberry, Banana and Apple and Litchi orchards that grow mainly in the Ramgarh and Mukteshwar belt. In the middle Himalayan range we find Daruharidra, Timoor, Manjishtha, Sugandhabala, Samayava, Manduparna, Dhooplakkar, Talish, Devdaru, Padam, Vidhangabhed, Kakoli, Ksheerkakoli, Lahsuniya and so many other plants. This range has the potential to grow plants like Saffron, Vindhanga, Ghritkumari and so on."           />
+
+        <Button
+            android:id="@+id/button17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="he unique avian fauna of Nainital District includes red-billed blue magpie, kingfishers, blue-throated and brown-headed barbets, lineated barbet, golden-throated barbet, crimson-fronted barbet, coppersmith Barbet plum-headed parakeet, slaty-headed Parakeet, chestnut bellied rock thrush, titmouse, babblers, jungle Owlet, fish eagle, pied woodpecker, brown-capped pygmy woodpecker.Presbytis schistaceous (Himalayan Langoor), Invus rhesus (Monkey), Urssus Tibetans (Rich), Martes flavigula (Black capped Marten), Hysrix leucura (Indian Porcupine), Sus Indicus (Wild pig), Cervulus aurens (Barking deer), Pteromys petaurista (Brown flying squirrel), Nemorhoedus goral (Gural)."
+            />
+
+        <Button
+            android:id="@+id/button18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

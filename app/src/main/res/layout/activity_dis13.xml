@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/uttarkashi"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Uttarkashi"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Uttarkashi that literally suggests ‘Kashi of the North’ is also nicknamed as ‘Somya Kashi’ and ‘Shivnagri’. Like Kasi, the town of Uttarkashi also houses the sacred Vishwanath temple. This holy shrine features a copper trident, having a circumference of 1 meter.
+
+The charming town of Uttarkashi is quite popular amongst the adventure enthusiasts as it offers several opportunities for trekking, mountaineering, and adventure sports. It is also known for the wide variety of coniferous vegetation such as fir, pine, deodar, medicinal shrubs and herbs. Uttarkashi is one of the most picturesque town of Garhwal region of Uttarakhand state."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Trees of various kinds are found in different altitudinal ranges, for which they are best adapted. Between 1,000 – 2,000 m., the forest cover is almost exclusively of pine. The pine flowers between February and April, the seeds being shed in October. Pine trees are tapped for resin and their dry leaves used as manure. The biggest pine tree in Asia, with a height of 60.5 m., is found at Khoonigad, en route to Arakot from Mori.
+
+Between 2,000 m – 3,000 m. are found forests of deodar, oak and rhododendron. Deodar (from the Sanskrit, deva – daru, divine – tree) is used for building temples. The wood from oak and rhododendron is utilised for agricultural implements while their leaves serve as cattle ­fodder.
+
+Beyond 3,000 m., forests of spruce, birch and fir are widespread. The bark of the birch tree (bhojpatra) was used in ancient times for recording manuscripts, some of which are still in excellent condition. Between 3,500 m-4,500 m. occur the bugyals, with a rich variety of flowering shrubs."           />
+
+        <Button
+            android:id="@+id/button27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Among the felines found are the snow leopard, leopard, tiger, leopard cat and civet cat. Of these, the most elusive is the snow leopard, with a coat of pale misty grey.
+
+Of the bear family, both the Himalayan Black Bear and Brown Bear are present. They are good tree climbers and can be quite aggressive when disturbed.
+
+Among the antelopes, the most prominent are the bharal, serow, musk – deer barking deer (kakar) and sambhar. The bharal is found at altitudes of around 3500m such as Nandanvan,and is extremely agile and nimble. The musk deer are being hunted for musk – pods and are now quite rare.
+
+Among reptiles, a wide variety of snakes are seen, many of whom are worshipped as nag ­devtas. Another striking specimen is the monitor lizard, a good 2ft. in length, called goh or gumla in the local dialect."
+            />
+        <Button
+            android:id="@+id/button28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

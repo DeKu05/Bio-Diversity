@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pic3"
+    tools:context=".map">
+
+    <ImageView
+        android:id="@+id/map"
+        android:layout_width="413dp"
+        android:layout_height="342dp"
+        android:scaleType="fitXY"
+        android:scrollbarAlwaysDrawHorizontalTrack="true"
+        android:scrollbarAlwaysDrawVerticalTrack="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/uttarakhand" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="412dp"
+        android:layout_height="37dp"
+        android:text="  Biodiversity Profile of Uttarakhand"
+        android:textAllCaps="true"
+        android:textColor="#B7EFED"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/map"
+        app:layout_constraintVertical_bias="0.059" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="402dp"
+        android:layout_height="233dp"
+        android:text="Uttarakhand the 27th state of Republic of India lies between 28o 44' and 31o 28' N Latitude and 77o 35' and 81o 01' East longitude. It was carved out of UP on 9th November 2000. The geographical area of the state is 53483 sq. km and the terrain and topography of the state is largely hilly with large areas under snow cover and steep slopes. Uttarakhand State comprises of 02 regions 13 districts, 78 Tehsils and 95 community development blocks. The districts lying in Garhwal Region are Uttarkashi, Chamoli, Pauri, Rudraprayag, Tehri, Dehradun and Haridwar and the remaining 06 in Kumaon Region are Udham Singh Nagar, Nainital, Almora, Pithoragarh, Champawat and Bageshwar"
+        android:textColor="#F8F5F5"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="view"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintVertical_bias="0.68" />
+
+</android.support.constraint.ConstraintLayout>

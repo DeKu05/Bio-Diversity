@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis8">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/pauri"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pauri Garhwal"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pauri in Uttarakhand is one of the most scenic places in the Garhwal Region. This place is known for its natural uniqueness and exclusiveness. A treasure trove of nature's bounty, visitors love to enjoy its picturesque beauty manifested in the form of verdant forests, snow-capped mountains, gushing waterfalls and sacred religious sites. This place is just like a hidden treasure that beckons the tourists to explore and enjoy its immense beauty. The Pauri District is one of the prominent districts in Uttarakhand. Perched at an altitude of 1814 m above the sea level, on the slopes of the Kandoliya Hills, Pauri attracts a large number of tourists. One of the prominent hill stations in Uttarakhand, Pauri offers a glimpse into daunting Himalayan Peaks like Swargarohini, Bander Poonchh, Thaliyasagar, Sumeru, Kedarnath, Neelkanth, Chaukhamb, Nandadevi, Hathiparvat, and Trishul. Watching the sun setting over the horizon behind these imposing mountain peaks is a sight to behold. There is no dearth of attractions in Pauri."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Over 120 species of fern grow in damp ravines, on moss – covered rocks and tree trunks. Ferns grow abundantly in the monsoon month of July, August and September.
+
+Tree: The hills abound wild cherry, wild Apple, Spindle Wood, Oak, Fig, Poplar, Holly, Rhododendron, Masuri Berry, Dogwood, Horse Chestnut and hill tuna. At higher altitudes, forests are crowded with Himalayan cypress, Deodar, Blue pine, Fir and Long leafed pine."           />
+        <Button
+            android:id="@+id/button23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The cat family is abundant in these mountains and would include the Tiger, Panther, Civet cat, Leopard cat and Jungle Cat. Relatives of the domesticated dog would include the Himalayan Silver Fox and the Jackal. Various species of deer including the Musk Deer and the Barking Deer roam in the forest. Sambhar and Gural as well as the Bear and the Porcupine can also be seen. The flying mammal, the Bat too is common. Among the most adorable animals in this region are the Chipmunk, the Rhesus Monkey and the Flying Squirrel.Over 400 varieties of birds have been recorded in the Himalayan region. The shore a forest host, the Jewel Thrush, Black headed Oriole, Black headed yellow Bulbul, Rosy Minivet, Laughing Thrush, Golden Backed Wood pecker and the Blue fly Catcher, Wintering waterfowl include the Goosander, Brahminy Duck and Green Shank, Grey headed Fishing Eagles may also be seen by the river edge. After ascending over 5000 feet, the Woodpecker, Thrush and Warbler become more common, between 8000-11000 feet, Grosbeak, Rock Thrush, Crested black Tit and red headed Laughing Thrush are a plenty."
+            />
+        <Button
+            android:id="@+id/button24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis1"
+    android:background="@drawable/al">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/almora"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Almora"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Almora (Kumaoni: Almāḍ) is a municipal board and a cantonment town in the state of Uttarakhand, India. It is the administrative headquarters of Almora district.[4] Almora is located on a ridge at the southern edge of the Kumaon Hills of the Himalaya range, at a distance of 363 km (via NH9)[5] from the national capital New Delhi and 415 km via Saharanpur Rd, 351 km via NH109 and 388.6 km via Ambala- Dehradun- Haridwar Rd from the state capital Dehradun. According to the provisional results of the 2011 national census of India, Almora has a population of 35,513. Nestled within higher peaks of the Himalaya, Almora enjoys a year-round mild temperate climate. The town is visited by thousands of tourists annually from all over the world.[citation needed] There are 11 blocks (i.e. VikashKhand) in Almora district."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="The region is immensely rich with 4000 species of plants, having remarkable diversity in its natural vegetation by virtue of its having a great range of elevation. Climatic variations, particularly in temperature and precipitation associated with the alignment and elevation of its ranges and valleys, determine the altitudinal growth and variety of vegetation. The flora of this region may be classified into tropical, Himalayan sub-tropical and subalpine and alpine vegetation. The alpine and sub-alpine zones are considered as the most natural abode of the largest number of medicinal plants."
+            />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="The sub-alpine zones of Almora and outskirts are a natural sanctuary for leopard, Langur, Himalayan black bear, kakar, goral, etc. Whereas the high altitude zones abound musk deer, popularly called Kastura Mrig, snow leopard, blue sheep, thar, etc. The entire zone is rich in a remarkable variety of birds possessing plumage of magnificent design and colours like the peacock, and which also includes the grey quail, black francolin/kala titar, whistling thrush, chakor, monal, cheer pheasant, kokla, and Kalij pheasant."
+            />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis3"
+    android:background="@drawable/ch">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/chamoli"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chamoli"
+            android:textColor="#EC3A2D"
+            android:textSize="50dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chamoli hosts a variety of destinations of pilgrim and tourist interest. Chamoli also happened to be a birthplace of “Chipko Movement”. Chamoli proved itself “the most spectacular in its natural assets; be it scenery, valley aspects, water-edges, floristic varieties, dramatic landform or the climatic cardinalities”."
+            android:textColor="#EC3A2D" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textColor="#EC3A2D"
+            android:textSize="30dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The plant life in the Chamoli hills is beautifully adapted for the different altitudes and seasons. The pine tree cover between the elevation of 1, 000-2, 000 m flower every February and April with the seeds shedding in October. The trees are used as sources of resin and manure (dry leaves).In fact, the largest pine tree (60.5 m) in Asia is growing at Khoonidad, on the way from Arakot from Mori. Beyond an elevation of 2,000 m sees the population of Deodar, Oak, Rhododendron, Spruce, Birch and Fir trees.
+"
+            android:textColor="#EC3A2D" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textColor="#EC3A2D"
+            android:textSize="30dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The animal life certainly is a big competition to the diversity of the plants. Though most of the animals are wild, they are becoming rarer by the day due to illegal poaching. Animals like Snow Leopard, Leopard, Tiger, Leopard Cat, Civet Cat, Himalayan Black Bear, Brown Bear, Bharal, Serow, Musk Deer, Barking Deer and Sambar are generally found here. The bears are usually very agile and dexterous, climbing extremely tall trees at one go. The Musk Deers have been illegally poached for their Musk pods but now they are exceedingly endangered and hence protected species."
+            android:textColor="#EC3A2D" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

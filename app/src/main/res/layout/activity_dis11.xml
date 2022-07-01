@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".dis10">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitStart"
+        android:adjustViewBounds="true"
+        android:src="@drawable/tehrigarhwal"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tehri"
+        android:textSize="50dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lying on the southern slopes of mid Himalayas, Tehri Garhwal is on of the sacred hilly districts of Uttarakhand State. Before the creation of universe, Lord Brahma is said to have meditated on this sacred land. Muni-ki-Reti and Tapovan of the district are the places of penance for the ancient Rishis. Its hilly terrain and lack of easy communications have helped it to preserve its culture almost intact. Tehri and Garhwal are the two words combined for naming the district as Tehri Garhwal."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Flora:-"
+        android:textSize="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The plant life of Tehri Garhwal can be divided into six main categories of tropical dry deciduous forests, Sal forests, Chir forests, oak deodar, fir and spruce forests, and finally the Alpine pastures. The variety of forests is perhaps enough to make anyone realize the sheer multiplicity of the flora species. These forests not provide a safe haven for animals but also help the villagers to maintain the ecological balance and give them firewood and food. The scent of damp earth, leaves and the noise of grasshopper are the essence of Garhwali forests.
+
+There are many trees like chir, Oaks, Conifers, Sal, Deodar, Haldu, Yew, Cypress, Rhododendron, Birch, Horse-Chestnut, Cycamore, Willow and Alder are found here. A large variety of medicinal herbs, shrubs and bushes like Brahmi and Ashwagandha are found in abundance here. One can also savor fruits like Cornel, Figs, Kaiphal, Mulberry, Kingora, Raspberry, Blackberry, Currants, Medlars, Gooseberries, Hazelnuts, Apples, Pears, Cherries, Apricots, Plums, Peaches, Oranges, Limes, Bananas, Pomegranates and Walnuts."           />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View More" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fauna:-"
+        android:textSize="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The district of Tehri Garhwal is full of rich animal life which includes mammals, reptiles, pisceans and birds. The forests are full of animals like Monkey, Langur, Wild-Cat, Goat, Pig, Fox, Wild-Dog, Black Bear and the Flying Squirrel (locally called Rinoola). Elephants are found only in the Terai forests when entering from Dehradun. However, the star (and elusive) attraction in the forests of Tehri Garhwal is the critically endangered Musk Deer or the Kastura; a visitor is really lucky if he sees one in the open.
+
+A number of carnivore species live in Tehri Garhwal region like the Snow Leopard, Leopard and sometimes Tigers. The Snow Leopard is rare and seriously endangered. The avian species consist of Pheasants, Kalij, Koklas, Cheers, Monal, Wild Fowls, Harial, Parrots, Chatak, Papiha, Haldu, Neelkanth, Pigeons, Partridges, Kala Titar, Chakor and Neora. The reptile population is represented by Cobra, Russell’s Viper, Ancistrodon himalayanus, Rat Snake, Leech and Blood-Sucking Lizard."
+        />
+    <Button
+        android:id="@+id/button22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View More" />
+
+
+</LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".diffrentDistricts"
+    android:background="@drawable/pic2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitStart"
+            android:src="@drawable/uttarakhand"
+            android:adjustViewBounds="true"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:text="Diffrent Districts of uttrakhand"
+            android:textColor="@color/white"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Almora"
+            android:textColor="#69E8DC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/al" />
+
+        <TextView
+            android:layout_width="432dp"
+            android:layout_height="match_parent"
+            android:text="The hill station of Almora is situated on a horseshoe-shaped ridge of a mountain, the eastern portion of which is called Talifat and the western one is known as Selifat. The landscape of Almora attracts tourists each year for its views of the Himalayas, cultural heritage, handicrafts and cuisine, and is a business hub for the Kumaon region. Developed by the kings of Chand dynasty, it was later maintained and further developed by the British regime."
+            android:textColor="#E9F3F2"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/dis1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More"
+            android:textColor="#0A0B0B" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bageshwar"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/bageshwar" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Situated at the confluence of rivers Saryu, Gomti and latent Bhagirathi, lies the holy township of Bageshwar; also revered as the pious land associated with Lord Sadashiva, the redeemer of all sins. As the puranas state, this undoubtedly is a place capable of liberating one from the eternal bondage of births and deaths. With the east and west flanked by the Bhileswar and Nileshwar mountains and surrounded by Suraj Kund in the north and Agni Kund in the south, this land of Lord Shankar is of great religious, historic and political significance."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chamoli"
+            android:textColor="#A3F4ED"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/ch" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chamoli hosts a variety of destinations of pilgrim and tourist interest. Chamoli also happened to be a birthplace of “Chipko Movement”. Chamoli proved itself “the most spectacular in its natural assets; be it scenery, valley aspects, water-edges, floristic varieties, dramatic landform or the climatic cardinalities”."
+            android:textColor="#F4EFEF" />
+
+        <Button
+            android:id="@+id/dis3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Champawat"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/champawat" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Situated at the confluence of rivers Saryu, Gomti and latent Bhagirathi, lies the holy township of Bageshwar; also revered as the pious land associated with Lord Sadashiva, the redeemer of all sins. As the puranas state, this undoubtedly is a place capable of liberating one from the eternal bondage of births and deaths. With the east and west flanked by the Bhileswar and Nileshwar mountains and surrounded by Suraj Kund in the north and Agni Kund in the south, this land of Lord Shankar is of great religious, historic and political significance."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dehradun"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/de" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nested in the mountain ranges of the Himalaya, Dehradun is one of the oldest cities of India and is recently declared as the Provisional Capital of newly created Uttaranchal (Now Uttarakhand) State in the month of Nov’2000. Also known as the ‘Adobe of Drona’, Dehradun has always been an important center for Garhwal rulers which was captured by the British. The headquarters of many National Institutes and Organizations like ONGC, Survey Of India, Forest Research Institute, Indian Institute of Petroleum etc are located in the city. Some of the premier educational and Training Institutes like Indian Miltary Academy, RIMC(Rashtriya Indian Military College), Indira Gandhi National Forest Academy(IGNFA), Lal Bahadur Shahstri National Academy of Administration(LBSNAA)etc are also there in Dehradun. It is a favoured tourist destination as it attracts tourists, pilgrims and enthusiasts from various walks of life to its serene environs. Add to this the abundance of special Basmati rice, tea and leechi gardens which contribute in turning the city into a paradise."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Haridwar"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/haridwar_road" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The district came into existence on 28th Dec. 1988. Prior to its inclusion in the newly created state of Uttarakhand, this district was a part of Saharanpur Divisional Commissionary. The district is ringed by Saharanpur in the west, Dehradun in the north and east, Pauri Garhwal in the east, Muzzaffar Nagar and Bijnor in the south. The district headquarter is situated in the Roshnabad, at a distance of about 12 kms from railway station. The Collectorate, Vikas Bhawan, District Judiciary, S.S.P. Office, Police line, District Jail, District sports stadium, Jawahar Navodaya Vidyalaya etc. are the prime establishments of this area. The district is administratively subdivided into four tehsils i.e. Haridwar, Roorkee , Laksar, Bhagwanpur and six development blocks i.e. Bhagwanpur, Roorkee, Narsan, Bahadrabad, Laksar and Khanpur. Haridwar is one of the first towns where Ganga emerges from the mountains to touch the planes. As per the 2011 census, the population of the district is 18,90,422. Due to Haridwar’s location on the bank of river Ganga, it has plenty of water resources and almost all kind of food grains are produced here in abundance."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nanital"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/nainital" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nainital is a glittering jewel in the Himalyan necklace, blessed with scenic natural spledour and varied natural resources . Dotted with lakes , Nainital has earned the epithet of ‘ Lake District ‘ of India . The most prominent of the lakes is Naini lake ringed by hills . Nainital has a varied topography . Some of the important places in the district are Nainital , Haldwani , Kaladhungi , Ramnagar , Bhowali , Ramgarh , Mukteshwar , Bhimtal , Sattal and Naukuchiatal . Nainital’s unending expense of scenic beauty is nothing short of a romance with awe-inspiring and pristine Mother nature."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pauri"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/pauri" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pauri Garhwal is a district of Uttrakhand. Located partly in the Gangetic plain and partly in the northern Himalayas, Pauri Garhwal district encompasses an area of 5,230 square kilometres (2,020 sq mi) and is situated between 29° 45’ to 30°15’ North Latitude and 78° 24’ to 79° 23’ East Longitude. The district is bordered on the southwest by Bijnor district, Uttar Pradesh, and, clockwise from west to southeast, by the Uttarakhand districts of Haridwar, Dehradun, Tehri Garhwal, Rudraprayag, Chamoli, Almora, and Nainital. The climate of Pauri Garhwal is mostly pleasant in summer and cold in winter. In the rainy season the climate is cool and the landscape green. However, in Kotdwar and the adjoining Bhabar area, it is quite hot, reaching the high 40s Celsius during the summer. In the winter, many parts of Pauri receive snowfall."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pithoragarh"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/pithoragarh" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pithoragarh District having its entire northern and eastern boundaries being international, assumes a great strategic significance and, obviously, is a politically sensitive district along the northern frontier of India. Being the last district adjoining Tibbet, it has tremendous strategic importance as the passes of Lipulekh, Kungribingri, Lampia Dhura, Lawe Dhura, Belcha and Keo, open out to Tibbet. The breath taking beauty of Pithoragarh – Himalayas, wide expenses of grassy meadow, perennial streams roaring down the zig-zag course, a stupendous variety of flora and fauna, above all, pure nature yet unsullied, seem to beckon the beholder into their folds, into a charmed world of virgin beauty."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rudraprayag"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="match_parent"
+            android:layout_height="534dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/pic2" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Named after Lord Shiva's Rudra avatar (incarnation), Rudraprayag is an ancient holy town situated at the confluence of Alaknanda and Mandakini rivers, at a distance of 34 km from Srinagar in the Garhwal region. Rudraprayag marks the fourth confluence between Alaknanda and Mandakini rivers."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tehri-Garhwal"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="match_parent"
+            android:layout_height="534dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/tehrigarhwal" />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lying on the southern slopes of mid Himalayas, Tehri Garhwal is on of the sacred hilly districts of Uttarakhand State. Before the creation of universe, Lord Brahma is said to have meditated on this sacred land. Muni-ki-Reti and Tapovan of the district are the places of penance for the ancient Rishis. Its hilly terrain and lack of easy communications have helped it to preserve its culture almost intact. Tehri and Garhwal are the two words combined for naming the district as Tehri Garhwal."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Udhamsinghnagar"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="match_parent"
+            android:layout_height="534dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/udhamsinghnagar" />
+
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hundreds of years ago village Rudrapur was established by a devotee of lord Rudra or by Hindu tribal chief called Rudra, which has passed through phases of development to take the shape of city Rudrapur. The importance of Rudrapur has increased as it is the head quarter of district Udham Singh Nagar. During the reigns of mughal emperor Akbar this land was handed over to king Rudra Chandra in 1588. The king established a permanent millitary camp to free tarai from day today invasions. Totaly neglected village Rudrapur was filled with new colours and human activities.There is a saying that Rudrapur was named after king Rudra Chandra. During the reigns of Britishers, Nainital was made a district and in 1864-65 the whole Tarai and Bhawar was put under “Tarai and Bhawar Government Act” which was governed directly by the British crown."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Uttarkashi"
+            android:textColor="#87F6EC"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="match_parent"
+            android:layout_height="534dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/uttarkashi" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Uttarkashi district was created on February 24, 1960 out of what then constituted the parganas of Rawain and Uttarkashi of Rawain tahsil of erstwhile Tehri Garhwal district. It sprawls in the extreme north-west corner of the state over an area of 8016 sq. kms. in the rugged terrain of the mystic Himalayas. On its north lie Himachal Pradesh State and the territory of Tibet and the district of Chamoli in the east. The district is named after its headquarters town Uttarkashi, an ancient place with rich cultural heritage and as the name suggests is the Kashi of north (Uttara) held almost as high a veneration as Kashi of the plain (Varanasi). Both the Kashi of the plain (Varanasi) as well as the Kashi of north are situated on the banks of the river Ganga (Bhagirathi). The area which is held sacred and known as Uttarkashi, lies between the rivers Syalam Gad also known as the Varuna and Kaligad also known as the Asi. The Varuna and the Asi are also the names of the rivers between which the Kashi of the plain lies. One of the holiest Ghats in Uttarkashi is Manikarnika so is the one by the same name in Varanasi. Both have temples dedicated to Vishwanath."
+            android:textColor="#F8F5F5" />
+
+        <Button
+            android:id="@+id/dis13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+    </LinearLayout>
+  </ScrollView>

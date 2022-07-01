@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis6">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/haridwar_road"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Haridwar"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="One of the holiest pilgrimages in India, Haridwar, or the ‘gateway to gods’, is located where Ganga, the sacredest of all Indian rivers, enters the Indo-Gangetic plains. Located at the foothills of the Himalayas, Haridwar is a city of temples and ashrams and its pious ambience envelops everyone. Haridwar is one of the four holy Indian cities that host the Kumbh Mela, a pious gathering of millions of Hindu devotees every 12 years. The Ardh Kumbh is organised here every six years. It also hosts the Kanwar mela every year during the rainy season. The ‘Panch Tirth’ or the five pilgrimages located within the periphery of Haridwar, are Gangadwara (Har Ki Pauri), Kushwart (Ghat), Kankhal, Bilwa Tirtha (Mansa Devi Temple) and Neel Parvat (Chandi Devi). Haridwar serves as the gateway to the Char Dham of Uttarakhand as well."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" The sub tropical zone, upto an altitude of 4000 ft above sea level, is home to sal forest, the flame of the forest, jacaranda and yellow laburnum. Forests are at an altitude of about 5000 ft where pines begin to dominate, along with Oak. Popular fruit trees are plums and peaches. Floral species include geraniums, asters, lilies, roses, anemones, marigold, primula, gerberas, dahlias, hydrangeas, gladiolas, passion fruit and many more. An amazing range of medicinal plants and herbs also grow in this part of the state."           />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ttarkhand has amazingly varied bird life. Some 230 varieties of birds are found here, some only in Sattal region. You can spot babblers, tits, bulbuls, warblers, minivets, woodpeckers, pigeons , myna and the colourful barbets. The sunbird, the red billed magpie, the jungle myna, the long tailed minivet and Himalayan bulbul are your constant companion."
+            />
+
+        <Button
+            android:id="@+id/button16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

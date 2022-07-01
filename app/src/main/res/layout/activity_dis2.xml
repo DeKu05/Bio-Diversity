@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/bageshwar"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bageshwar"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Situated at the confluence of rivers Saryu, Gomti and latent Bhagirathi, lies the holy township of Bageshwar; also revered as the pious land associated with Lord Sadashiva, the redeemer of all sins. As the puranas state, this undoubtedly is a place capable of liberating one from the eternal bondage of births and deaths. With the east and west flanked by the Bhileswar and Nileshwar mountains and surrounded by Suraj Kund in the north and Agni Kund in the south, this land of Lord Shankar is of great religious, historic and political significance."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Bageshwar is situated in a valley of the Kumaon Hills of the Central Himalaya range. It has an average elevation of 934 metres (3,064 feet). The chief trees are the Chir Pine, Himalayan Cypress, Pindrow Fir, alder, sal or iron-wood, and saindan. Limestone, sandstone, slate, gneiss and granite constitute the principal geological formations."           />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The animal life certainly is a big competition to the diversity of the plants. Though most of the animals are wild, they are becoming rarer by the day due to illegal poaching. Animals like Snow Leopard, Leopard, Tiger, Leopard Cat, Civet Cat, Himalayan Black Bear, Brown Bear, Bharal, Serow, Musk Deer, Barking Deer and Sambar are generally found here. The bears are usually very agile and dexterous, climbing extremely tall trees at one go. The Musk Deers have been illegally poached for their Musk pods but now they are exceedingly endangered and hence protected species." />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

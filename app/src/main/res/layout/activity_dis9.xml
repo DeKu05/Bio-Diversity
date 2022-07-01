@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis9">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/pithoragarh"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pithoragarh"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pithoragarh District having its entire northern and eastern boundaries being international, assumes a great strategic significance and, obviously, is a politically sensitive district along the northern frontier of India. Being the last district adjoining Tibbet, it has tremendous strategic importance as the passes of Lipulekh, Kungribingri, Lampia Dhura, Lawe Dhura, Belcha and Keo, open out to Tibbet. The breath taking beauty of Pithoragarh – Himalayas, wide expenses of grassy meadow, perennial streams roaring down the zig-zag course, a stupendous variety of flora and fauna, above all, pure nature yet unsullied, seem to beckon the beholder into their folds, into a charmed world of virgin beauty.
+
+It was in the wake of the Chinese aggression that on the 24th Feb. 1960, a sizeable section of Almora district was carved into Pithoragarh district containing extreme border areas with its head quarters in Pithoragarh town. On 15th September 1997, the Champawat Tehsil, hitherto under Pithoragarh, was carved into Champawat district."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Passing along the route of Chhota Kailash, a lover of adventure moves into the enchanting world surrounded by the lush stretches of velvetty grass bugyals (alpine meadows) such as Chhiplakot and Vyans Valley.The alpine and sub-alpine zones which include Milam, Ralam, Garbyang, Martoli etc, are very rich in the medicinal herbs and are considered as the most natural abode of the largest number of medicinal plants."           />
+
+        <Button
+            android:id="@+id/button19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The sub-alpine zones are a natural sanctuary for Leopard, Chital, fleet little Monkeys,Langoor, Bear, Kakar or barking deer, Ghoral etc. Whereas the high altitude zones abound in Musk deer, popularly called Kastura, Snow Leopard, Blue Sheep, Thar etc.The entire zone is rich in a remarkable variety of birds possessing plumage of magnificent design and colours like Peacock, which include Grey Quail, Kala Titar, Whistling Thrush, Chakor, Monal Pheasant, Cheer Pheasant, Koklas Pheasant etc
+"
+            />
+        <Button
+            android:id="@+id/button20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

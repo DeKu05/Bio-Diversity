@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis10"
+    android:background="@drawable/pic2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/rudraprayag"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Rudraprayag"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Rudraprayag is a town and a municipality in Rudraprayag district in the Indian state of Uttarakhand. Rudraprayag is one of the Panch Prayag (five confluences) of Alaknanda River, the point of confluence of rivers Alaknanda and Mandakini. Kedarnath, a Hindu holy town is located 86 km from Rudraprayag. The man-eating Leopard of Rudraprayag hunted and written about by Jim Corbett dwelled here."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Rudraprayag District is rich in flora and fauna. Moreover, in the warm valleys of the extreme southern part of Rudraprayag District, some species of the trees of the plains such as mango, jamun, Peepul, banyan and shisham up to an altitude of about 915 metres. In Alaknanda valley, the bases, slopes, gorges and tops of the hills up to the height of 1067 metres are well wooded with high trees such as catechu, bahera, har, amaltas, bel, kachnar and dhak. A large variety of creepers some of which have broad green leaves also thrive iin in the vicinity of the trees. Above an elevation of 3439 metres Moru or Tilonj and Kharasu grow and their timber is also used for manufacturing agricultural implements. The chief varieties of timber trees found in the groves of the district are pine, tun, deodar and many varieties of walnut. Many medicinal blooms, herbs and plants, greatly valued in Ayurveda grow in the district. Most of the flowers and plants come up during the rains but wither away from October to May, imparting the characteristic brown colour to the countryside during the winters."
+            />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="The sub-alpine zones of Rudraprayag and outskirts are a natural sanctuary for leopard, Langur, Himalayan black bear, kakar, goral, etc. Whereas the high altitude zones abound musk deer, popularly called Kastura Mrig, snow leopard, blue sheep, thar, etc. The entire zone is rich in a remarkable variety of birds possessing plumage of magnificent design and colours like the peacock, and which also includes the grey quail, black francolin/kala titar, whistling thrush, chakor, monal, cheer pheasant, kokla, and Kalij pheasant."
+            />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis12">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/udhamsinghnagar"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Udham Singh Nagar"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="According to Historians, hundreds of years ago village Rudrapur was established by a devotee of lord Rudra or by Hindu tribal chief called Rudra, which has passed through phases of development to take the shape of city Rudrapur. The importance of Rudrapur has increased as it is the head quarter of district Udham Singh Nagar. During the reigns of mughal emperor Akbar this land was handed over to king Rudra Chandra in 1588. The king established a permanent millitary camp to free tarai from day today invasions. Totaly neglected village Rudrapur was filled with new colours and human activities.There is a saying that Rudrapur was named after king Rudra Chandra. During the reigns of Britishers, Nainital was made a district and in 1864-65 the whole Tarai and Bhawar was put under “Tarai and Bhawar Government Act” which was governed directly by the British crown."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="There are many trees like chir, Oaks, Conifers, Sal, Deodar, Haldu, Yew, Cypress, Rhododendron, Birch, Horse-Chestnut, Cycamore, Willow and Alder are found here. A large variety of medicinal herbs, shrubs and bushes like Brahmi and Ashwagandha are found in abundance here. One can also savor fruits like Cornel, Figs, Kaiphal, Mulberry, Kingora, Raspberry, Blackberry, Currants, Medlars, Gooseberries, Hazelnuts, Apples, Pears, Cherries, Apricots, Plums, Peaches, Oranges, Limes, Bananas, Pomegranates and Walnuts."           />
+
+        <Button
+            android:id="@+id/button25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The animal life certainly is a big competition to the diversity of the plants. Though most of the animals are wild, they are becoming rarer by the day due to illegal poaching. Animals like Snow Leopard, Leopard, Tiger, Leopard Cat, Civet Cat, Himalayan Black Bear, Brown Bear, Bharal, Serow, Musk Deer, Barking Deer and Sambar are generally found here. The bears are usually very agile and dexterous, climbing extremely tall trees at one go. The Musk Deers have been illegally poached for their Musk pods but now they are exceedingly endangered and hence protected species."
+            />
+        <Button
+            android:id="@+id/button26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+    </LinearLayout>
+
+</ScrollView>

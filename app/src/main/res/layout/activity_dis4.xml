@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis4">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/champawat"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Champawat"
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Champawat district was formerly a part of almora district. In 1972, the part came under pithoragarh district. In 1997 september 15, champawat was declared an individual, independent district.
+
+Champawat is valued in uttarakhand as the place of origin of culture and religion in uttarakhand region. The champawat land is considered to be the home of naga and kinnar described in hindu mythology. The region was ruled by khash kings in past. Historical pillars, monuments, manuscripts, archeological collections and folklores of the region are the evidences to its historical importance.  The manuscripts make it clear that katyur dynasty ruled the region in the past.
+
+Champawat district is one among 13 districts of uttarakhand state, india. Champawat district administrative head quarter is champawat. It is is located 266 km west towards state capital dehradun . Champawat district population is 259648 approx. It is 12 th largest district in the state by population."
+            />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Large valleys, landscapes, mountain ranges, cliffs, and important rivers and rivulets form the geography of the Champawat district. About 65% of the district is covered with dense forests and trees. The remaining 35% is used as grazing, agriculture and non-agriculture lands. The vegetation in the plain areas constitute of exotic and traditional plants like Madar, Babool, Sagon, Ecliptus, Bail, Jamun, Teak etc. The forests of Champawat also have many useful trees like Khatic, Amla and Ayer Tun. The southern hills are covered with Chir trees"           />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The southern hills are covered with Chir trees. The forests in Champawat are decorated with different variety of wild life like deer, elephant, cheetal, tiger, barahsingha etc. Sarso is a sovereign bird which can be seen in the region during winters and it is the specialty of the district. Other varieties of beautiful birds are also there is the region."
+            />
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

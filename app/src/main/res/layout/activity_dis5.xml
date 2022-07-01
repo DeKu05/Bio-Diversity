@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dis5"
+    android:background="@drawable/de">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitStart"
+            android:adjustViewBounds="true"
+            android:src="@drawable/dehradun"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dehradun "
+            android:textSize="50dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dehradun City is one of the oldest cities of India, bejeweled-like a glittering jewel in the lower Himalayan mountain ranges. The city is perched at an elevation of 435 meters and is currently enjoying its stature as the capital of Uttarakhand.
+
+Dehradun is the gateway to the famous hill station of Mussoorie and the pilgrimage spots of Haridwar and Rishikesh.  This city is famous for its weather, Dehradun climate remains salubrious throughout the year."
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Flora:-"
+            android:textSize="30dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The plant life in the Chamoli hills is beautifully adapted for the different altitudes and seasons. The pine tree cover between the elevation of 1, 000-2, 000 m flower every February and April with the seeds shedding in October. The trees are used as sources of resin and manure (dry leaves).In fact, the largest pine tree (60.5 m) in Asia is growing at Khoonidad, on the way from Arakot from Mori. Beyond an elevation of 2,000 m sees the population of Deodar, Oak, Rhododendron, Spruce, Birch and Fir trees.
+"           />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fauna:-"
+            android:textSize="30dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The animal life certainly is a big competition to the diversity of the plants. Though most of the animals are wild, they are becoming rarer by the day due to illegal poaching. Animals like Snow Leopard, Leopard, Tiger, Leopard Cat, Civet Cat, Himalayan Black Bear, Brown Bear, Bharal, Serow, Musk Deer, Barking Deer and Sambar are generally found here. The bears are usually very agile and dexterous, climbing extremely tall trees at one go. The Musk Deers have been illegally poached for their Musk pods but now they are exceedingly endangered and hence protected species."
+            />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View More" />
+
+
+    </LinearLayout>
+
+</ScrollView>

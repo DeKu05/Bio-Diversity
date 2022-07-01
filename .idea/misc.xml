@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_almora_fauna.xml" value="0.2359375" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_almora_flora.xml" value="0.25" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_bageshwar_fauna.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_bageshwar_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_chamoli_fauna.xml" value="0.25" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_chamoli_flora.xml" value="0.2359375" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_champawat_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dehradun_fauna.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dehradun_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_diffrent_districts.xml" value="0.25" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_diffrent_districts2.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_diffretn_districts.xml" value="0.25" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis1.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis10.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis11.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis12.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis13.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis2.xml" value="0.25" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis4.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis5.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis6.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis7.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis8.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_dis9.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_district_distribution.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_haridwar_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_map.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_nanital_fauna.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_nanital_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_pauri_fauna.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_pauri_flor.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_pithoragarh_fauna.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_pithoragarh_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_rudra_fauna.xml" value="0.2359375" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_rudra_flora.xml" value="0.2359375" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_scrolling.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_tehri_fauna.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_tehri_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_udham_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_udhar_fauna.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_uttarkashi_fauna.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/activity_uttarkashi_flora.xml" value="0.1" />
+        <entry key="..\:/Users/gqura/AndroidStudioProjects/BioDiversity/app/src/main/res/layout/content_scrolling.xml" value="0.15334302325581395" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
